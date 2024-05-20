@@ -2,6 +2,8 @@
 
 An expense tracker application built with Python and Tkinter for the GUI, and SQLite3 for the database. This application allows users to track their expenses, update and delete records, and view the total balance.
 
+## Video Showcase:
+
 ## Features
 
 - Add expense records with item name, price, and purchase date.
@@ -18,12 +20,8 @@ An expense tracker application built with Python and Tkinter for the GUI, and SQ
 
 ## Installation
 
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/expense-tracker.git
-    cd expense-tracker
-    ```
-
+1. Clone the repository
+   
 2. Install required packages (if any). Since Tkinter and SQLite3 are part of the standard Python library, no additional packages should be required.
 
 ## Usage
@@ -82,4 +80,6 @@ The SQLite database contains a single table `expense_record` with the following 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+
 
