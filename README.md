@@ -2,7 +2,7 @@
 
 An expense tracker application built with Python and Tkinter for the GUI, and SQLite3 for the database. This application allows users to track their expenses, update and delete records, and view the total balance.
 
-## Video Showcase:
+## Video Showcase: https://www.linkedin.com/posts/shreyansu-panda-5a9854276_pythonprogramming-sqlite3-tkinter-activity-7198351141317795840-PFZD?utm_source=share&utm_medium=member_desktop
 
 ## Features
 
