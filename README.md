@@ -14,7 +14,7 @@ An expense tracker application built with Python and Tkinter for the GUI, and SQ
 
 ## Requirements
 
-- Python 3.x
+- Python 
 - Tkinter (usually included with Python)
 - SQLite3 (usually included with Python)
 
